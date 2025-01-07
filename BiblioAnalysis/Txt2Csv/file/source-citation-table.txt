@@ -1,0 +1,244 @@
+﻿id	source	documents	citations	total link strength
+1	"10th international conference on advanced computing and communication systems, icaccs 2024"	2	0	0
+2	"11th international and the 17th national conference on e-learning and e-teaching, icelet 2024"	1	0	0
+3	"17th international conference on e-learning and digital learning 2023, eldl 2023 and 11th international conference on sustainability, technology and education 2023, ste 2023"	1	0	0
+4	"1st international conference on advances in science, engineering and robotics technology 2019, icasert 2019"	1	28	0
+5	"1st international conference on the advancements of artificial intelligence in african context, aaiac 2023"	1	0	0
+6	"2017 ieee international conference on computational intelligence and virtual environments for measurement systems and applications, civemsa 2017 - proceedings"	1	30	0
+7	"2018 international joint symposium on artificial intelligence and natural language processing, isai-nlp 2018 - proceedings"	1	50	1
+8	"2018 ist-africa week conference, ist-africa 2018"	1	6	0
+9	"2018 zooming innovation in consumer technologies conference, zinc 2018"	1	32	0
+10	"2019 18th international conference on information technology based higher education and training, ithet 2019"	1	108	0
+11	"2019 ieee 16th india council international conference, indicon 2019 - symposium proceedings"	1	58	0
+12	"2020 ieee 9th global conference on consumer electronics, gcce 2020"	1	1	0
+13	"2021 2nd sustainable cities latin america conference, scla 2021"	1	1	0
+14	"2022 7th international conference on informatics and computing, icic 2022"	1	6	0
+15	"2022 ieee 12th annual computing and communication workshop and conference, ccwc 2022"	1	1	0
+16	"2022 ieee 28th international conference on engineering, technology and innovation, ice/itmc 2022 and 31st international association for management of technology, iamot 2022 joint conference - proceedings"	1	1	0
+17	"2022 ieee 7th international conference for convergence in technology, i2ct 2022"	2	4	0
+18	"2022 international conference on communication, computing and internet of things, ic3iot 2022 - proceedings"	1	1	0
+19	"2023 10th ieee uttar pradesh section international conference on electrical, electronics and computer engineering, upcon 2023"	1	0	0
+20	"2023 10th international conference on information technology, computer, and electrical engineering, icitacee 2023"	1	1	0
+21	"2023 14th international conference on computing communication and networking technologies, icccnt 2023"	1	1	0
+22	"2023 1st international conference on circuits, power, and intelligent systems, ccpis 2023"	1	2	0
+23	"2023 22nd international symposium infoteh-jahorina, infoteh 2023"	1	40	0
+24	"2023 26th international conference on computer and information technology, iccit 2023"	1	1	0
+25	"2023 31st irish conference on artificial intelligence and cognitive science, aics 2023"	1	0	0
+26	"2023 3rd international conference on advance computing and innovative technologies in engineering, icacite 2023"	1	0	0
+27	"2023 46th ict and electronics convention, mipro 2023 - proceedings"	1	7	0
+28	"2023 9th international conference on information technology trends, itt 2023"	1	19	0
+29	"2023 global conference on information technologies and communications, gcitc 2023"	1	0	0
+30	"2023 ieee 15th international conference on humanoid, nanotechnology, information technology, communication and control, environment, and management, hnicem 2023"	1	0	0
+31	"2023 ieee international conference on industrial engineering and engineering management, ieem 2023"	1	0	0
+32	"2023 ieee international conference on research methodologies in knowledge management, artificial intelligence and telecommunication engineering, rmkmate 2023"	1	0	0
+33	"2023 ieee world ai iot congress, aiiot 2023"	1	6	0
+34	"2023 international conference on intelligent computing, communication, networking and services, iccns 2023"	1	14	0
+35	"2023 international conference on intelligent education and intelligent research, ieir 2023"	1	0	0
+36	"2023 international conference on it innovation and knowledge discovery, itikd 2023"	1	1	0
+37	"2023 international conference on the confluence of advancements in robotics, vision and interdisciplinary technology management, ic-rvitm 2023"	1	0	0
+38	"2024 11th international conference on reliability, infocom technologies and optimization (trends and future directions), icrito 2024"	2	3	0
+39	"2024 1st international conference on advanced computing and emerging technologies, acet 2024"	1	0	0
+40	"2024 21st international multi-conference on systems, signals and devices, ssd 2024"	1	0	0
+41	"2024 28th international conference on information technology, it 2024"	1	0	0
+42	"2024 32nd international conference on software, telecommunications and computer networks, softcom 2024"	1	0	0
+43	"2024 47th ict and electronics convention, mipro 2024 - proceedings"	1	0	0
+44	"2024 4th international conference on advance computing and innovative technologies in engineering, icacite 2024"	4	0	0
+45	"2024 4th international conference on intelligent technologies, conit 2024"	1	0	0
+46	"2024 5th international conference on artificial intelligence and electromechanical automation, aiea 2024"	1	0	0
+47	"2024 asu international conference in emerging technologies for sustainability and intelligent systems, icetsis 2024"	1	2	0
+48	"2024 ieee 3rd german education conference, gecon 2024"	1	0	0
+49	"2024 ieee international conference on interdisciplinary approaches in technology and management for social innovation, iatmsi 2024"	1	1	0
+50	"2024 ieee symposium on industrial electronics and applications, isiea 2024"	1	0	0
+51	"2024 international conference on advances in computing research on science engineering and technology, acroset 2024"	1	0	0
+52	"2024 international conference on circuit, systems and communication, iccsc 2024"	1	1	0
+53	"26th americas conference on information systems, amcis 2020"	1	0	0
+54	"28th americas conference on information systems, amcis 2022"	1	1	0
+55	"29th annual americas conference on information systems, amcis 2023"	2	0	0
+56	"2nd edition of ieee delhi section owned conference, delcon 2023 - proceedings"	1	4	0
+57	"2nd international conference on sustainable computing and data communication systems, icscds 2023 - proceedings"	1	4	0
+58	"2nd international conference on sustainable computing and smart systems, icscss 2024 - proceedings"	1	0	0
+59	"31st international conference on computers in education, icce 2023 - proceedings"	2	0	0
+60	"35th aaai conference on artificial intelligence, aaai 2021"	1	52	0
+61	"5th biennial international conference on nascent technologies in engineering, icnte 2023"	1	3	0
+62	"5th slaai - international conference on artificial intelligence and 17th annual sessions, slaai-icai 2021"	1	1	0
+63	"6th experiment at international conference, exp.at 2023 - proceedings"	1	0	0
+64	"7th international conference on trends in electronics and informatics, icoei 2023 - proceedings"	1	8	0
+65	"acis 2021 - australasian conference on information systems, proceedings"	1	0	0
+66	acm international conference proceeding series	18	225	0
+67	advanced intelligent systems	1	1	0
+68	advances in intelligent systems and computing	4	29	0
+69	ai (switzerland)	1	21	0
+70	"aibi, revista de investigacion administracion e ingenierias"	1	2	0
+71	aloma	1	1	0
+72	applied artificial intelligence	1	26	0
+73	applied mathematics and information sciences	1	0	0
+74	applied sciences (switzerland)	5	209	0
+75	aptisi transactions on technopreneurship	1	19	0
+76	"assic 2022 - proceedings: international conference on advancements in smart, secure and intelligent computing"	1	2	0
+77	behaviour and information technology	1	16	0
+78	bulletin of electrical engineering and informatics	1	1	0
+79	ceur workshop proceedings	7	20	0
+80	chiir 2024 - proceedings of the 2024 conference on human information interaction and retrieval	1	3	0
+81	"cisci 2023 - vigesima segunda conferencia iberoamericana en sistemas, cibernetica e informatica, vigesimo simposium iberoamericano en educacion, cibernetica e informatica, sieci 2023 - memorias"	1	0	0
+82	communications in computer and information science	13	27	0
+83	communications of the association for information systems	1	1	2
+84	communities in new media. inclusive digital: forming community in an open way self-determined participation in the digital transformation - proceedings of 26th conference geneme 2023	1	0	0
+85	computer applications in engineering education	2	0	0
+86	computer assisted language learning	1	113	0
+87	computer methods and programs in biomedicine	1	0	0
+88	computer-aided design and applications	1	0	0
+89	computers and composition	1	1	0
+90	computers and education	4	565	0
+91	computers and education: artificial intelligence	16	429	0
+92	computers in education journal	1	11	0
+93	computers in human behavior reports	1	26	0
+94	conference on human factors in computing systems - proceedings	4	78	0
+95	"csitss 2021 - 2021 5th international conference on computational systems and information technology for sustainable solutions, proceedings"	1	3	0
+96	data and metadata	1	2	0
+97	digital health	3	73	0
+98	discover artificial intelligence	1	0	0
+99	e-learning and digital media	1	0	0
+100	"easeai 2019 - proceedings of the 1st acm sigsoft international workshop on education through advanced software engineering and artificial intelligence, co-located with esec/fse 2019"	1	6	0
+101	educar	1	15	0
+102	education sciences	5	683	0
+103	elearning and software for education conference	2	0	0
+104	electronic journal of e-learning	4	7	1
+105	electronic library	1	0	0
+106	frontiers in artificial intelligence	4	17	0
+107	fusion: practice and applications	1	1	0
+108	future internet	2	22	0
+109	human behavior and emerging technologies	1	21	0
+110	iaes international journal of artificial intelligence	2	0	0
+111	"icassp, ieee international conference on acoustics, speech and signal processing - proceedings"	1	17	0
+112	iccds 2024 - international conference on computing and data science	1	0	0
+113	"icce 2020 - 28th international conference on computers in education, proceedings"	2	14	0
+114	"icic express letters, part b: applications"	1	1	0
+115	idimt 2023: new challenges for ict and management - 31st interdisciplinary information management talks	1	1	0
+116	ieee access	3	16	0
+117	ieir 2022 - ieee international conference on intelligent education and intelligent research	1	0	0
+118	ihc 2020 - proceedings of the 19th brazilian symposium on human factors in computing systems	1	5	0
+119	"imcic 2020 - 11th international multi-conference on complexity, informatics and cybernetics, proceedings"	1	2	0
+120	"imsci 2011 - 5th international multi-conference on society, cybernetics and informatics, proceedings"	1	0	0
+121	informatics	1	2	0
+122	information (switzerland)	3	109	0
+123	information and management	1	0	0
+124	information discovery and delivery	1	2	0
+125	information sciences letters	1	4	0
+126	information systems frontiers	1	174	0
+127	interactive learning environments	11	395	0
+128	"international conference on computer supported education, csedu - proceedings"	5	22	0
+129	"international conference on enterprise information systems, iceis - proceedings"	1	1	0
+130	"international conference on intelligent algorithms for computational intelligence systems, iacis 2024"	1	0	0
+131	"international conference on intelligent user interfaces, proceedings iui"	1	28	0
+132	"international conference on science, engineering and business for driving sustainable development goals, seb4sdg 2024"	1	0	0
+133	"international conference on smart systems for applications in electrical sciences, icsses 2024"	1	0	0
+134	international conferences e-society 2024 and mobile learning 2024	1	0	0
+135	international journal of advanced computer science and applications	5	36	0
+136	international journal of artificial intelligence in education	1	20	0
+137	international journal of distance education technologies	1	0	0
+138	international journal of e-collaboration	1	1	0
+139	international journal of educational technology in higher education	7	225	0
+140	international journal of electrical and computer engineering	1	23	0
+141	international journal of gaming and computer-mediated simulations	1	63	0
+142	international journal of human-computer interaction	6	127	0
+143	international journal of information and communication technology education	1	2	0
+144	international journal of information and education technology	4	20	0
+145	international journal of information and learning technology	1	0	0
+146	international journal of information management	1	1502	0
+147	international journal of interactive mobile technologies	2	23	0
+148	international journal of modern education and computer science	1	21	0
+149	international journal of technologies in learning	1	0	0
+150	international journal on recent and innovation trends in computing and communication	1	0	0
+151	international transactions in operational research	1	2	0
+152	internet of things (netherlands)	1	3	0
+153	internet of things and cyber-physical systems	1	165	0
+154	journal of computer assisted learning	2	8	0
+155	journal of educational computing research	1	1	0
+156	journal of information technology education: research	2	0	0
+157	"journal of information, communication and ethics in society"	1	5	0
+158	journal of interconnection networks	1	31	0
+159	journal of the association for information science and technology	1	336	0
+160	journal of theoretical and applied information technology	3	40	0
+161	journal of universal computer science	1	15	0
+162	journal of web librarianship	1	0	0
+163	l@s 2022 - proceedings of the 9th acm conference on learning @ scale	1	4	0
+164	l@s 2024 - proceedings of the 11th acm conference on learning @ scale	3	1	0
+165	lecture notes in computer science (including subseries lecture notes in artificial intelligence and lecture notes in bioinformatics)	42	290	0
+166	"lecture notes in informatics (lni), proceedings - series of the gesellschaft fur informatik (gi)"	3	0	0
+167	lecture notes in networks and systems	19	27	0
+168	library hi tech news	1	9	0
+169	machine learning	1	27	0
+170	periodicals of engineering and natural sciences	1	51	0
+171	procedia computer science	1	3	0
+172	"proceeding of 2018 4th international conference on wireless and telematics, icwt 2018"	1	16	0
+173	"proceedings - 10th international conference on information technology in medicine and education, itme 2019"	1	0	0
+174	"proceedings - 11th international conference on information technology in medicine and education, itme 2021"	1	5	0
+175	"proceedings - 2015 asia-pacific conference on computer-aided system engineering, apcase 2015"	1	7	0
+176	"proceedings - 2020 international symposium on computer, consumer and control, is3c 2020"	1	4	0
+177	"proceedings - 2021 international conference on intelligent computing, automation and applications, icaa 2021"	1	2	0
+178	"proceedings - 2022 6th international conference on intelligent computing and control systems, iciccs 2022"	1	3	1
+179	"proceedings - 2022 ieee 10th international conference on healthcare informatics, ichi 2022"	1	1	0
+180	"proceedings - 2022 international conference on computational science and computational intelligence, csci 2022"	1	1	0
+181	"proceedings - 2023 22nd ieee/wic international conference on web intelligence and intelligent agent technology, wi-iat 2023"	1	2	0
+182	"proceedings - 2023 2nd international conference on big data, information and computer network, bdicn 2023"	1	1	0
+183	"proceedings - 2023 2nd international conference on data analytics, computing and artificial intelligence, icdacai 2023"	1	1	0
+184	"proceedings - 2023 5th international workshop on artificial intelligence and education, waie 2023"	2	6	0
+185	"proceedings - 2023 congress in computer science, computer engineering, and applied computing, csce 2023"	2	1	0
+186	"proceedings - 2023 ieee 16th international conference on software testing, verification and validation workshops, icstw 2023"	1	115	0
+187	"proceedings - 2023 ieee/acm 5th international workshop on software engineering education for the next generation, seeng 2023"	1	54	0
+188	"proceedings - 2024 4th international conference on technology enhanced learning in higher education, tele 2024"	1	0	0
+189	"proceedings - 2024 4th international symposium on ai, isai 2024"	1	0	0
+190	"proceedings - 2024 ieee 24th international conference on software quality, reliability and security companion, qrs-c 2024"	1	0	0
+191	"proceedings - 2024 ieee conference on artificial intelligence, cai 2024"	1	0	0
+192	"proceedings - 2024 ieee international conference on advanced learning technologies, icalt 2024"	2	0	0
+193	"proceedings - 2024 ieee international conference on artificial intelligence and extended and virtual reality, aixvr 2024"	1	10	0
+194	"proceedings - 32nd ieee international conference on advanced information networking and applications workshops, waina 2018"	1	40	0
+195	"proceedings - 7th international conference on computing methodologies and communication, iccmc 2023"	1	4	0
+196	proceedings - camp 2021: 2021 5th international conference on information retrieval and knowledge management: digital technology for ir 4.0 and beyond	1	6	0
+197	"proceedings - frontiers in education conference, fie"	3	4	0
+198	"proceedings - international conference on technological advancements in computational sciences, ictacs 2023"	1	2	0
+199	proceedings - jicv 2023: 13th international conference on virtual campus	1	0	0
+200	"proceedings of 2019 3rd ieee international conference on electrical, computer and communication technologies, icecct 2019"	1	5	0
+201	"proceedings of 2024 1st edition of the mediterranean smart cities conference, mscc 2024"	1	0	0
+202	"proceedings of 9th international conference on science, technology, engineering and mathematics: the role of emerging technologies in digital transformation, iconstem 2024"	1	0	0
+203	"proceedings of international conference of the learning sciences, icls "	1	1	0
+204	"proceedings of international conference on technological advancements and innovations, ictai 2021"	1	2	0
+205	"proceedings of the 10th international conference on electronics, computers and artificial intelligence, ecai 2018"	1	14	0
+206	"proceedings of the 15th international conference on educational data mining, edm 2022"	1	45	0
+207	"proceedings of the 17th iadis international conference information systems 2024, is 2024"	1	0	0
+208	"proceedings of the 2021 ieee international conference on innovative computing, intelligent communication and smart electrical systems, icses 2021"	1	5	0
+209	"proceedings of the 2022 3rd international conference on intelligent computing, instrumentation and control technologies: computational intelligence for smart systems, icicict 2022"	1	2	0
+210	"proceedings of the 2022 ieee 2nd international conference on advanced learning technologies on education and research, icalter 2022"	1	1	0
+211	"proceedings of the 2023 ais siged international conference on information systems education and research, iciser 2023"	1	0	2
+212	"proceedings of the 2023 international conference ""quality management, transport and information security, information technologies"", it and qm and is 2023"	1	1	0
+213	"proceedings of the 20th acm international conference on intelligent virtual agents, iva 2020"	1	4	0
+214	"proceedings of the 23rd pacific asia conference on information systems: secure ict platform for the 4th industrial revolution, pacis 2019"	1	18	0
+215	"proceedings of the 2nd international conference on artificial intelligence and smart energy, icais 2022"	1	7	0
+216	"proceedings of the 2nd international conference on electronics and sustainable communication systems, icesc 2021"	1	21	0
+217	"proceedings of the 37th aaai conference on artificial intelligence, aaai 2023"	3	13	0
+218	"proceedings of the 5th international conference on smart electronics and communication, icosec 2024"	1	0	0
+219	"proceedings of the 7th international conference on intelligent computing and control systems, iciccs 2023"	1	7	0
+220	"proceedings of the 8th international conference on big data, knowledge and control systems engineering, bdkcse 2023"	1	2	0
+221	proceedings of the acm on human-computer interaction	1	0	0
+222	proceedings of the acm sigkdd international conference on knowledge discovery and data mining	1	18	0
+223	proceedings of the acm symposium on applied computing	1	0	0
+224	proceedings of the association for information science and technology	1	0	0
+225	"proceedings of the european conference on e-learning, ecel"	2	4	0
+226	proceedings of the ieee international conference on industrial technology	1	27	0
+227	proceedings of the international conference on virtual learning	1	2	0
+228	"proceedings of the international florida artificial intelligence research society conference, flairs"	1	2	0
+229	risti - revista iberica de sistemas e tecnologias de informacao	1	1	0
+230	sigite 2023 - proceedings of the 24th annual conference on information technology education	1	6	0
+231	siie 2022 - 24th international symposium on computers in education	1	9	0
+232	sist 2021 - 2021 ieee international conference on smart information systems and technologies	1	2	0
+233	"sisy 2018 - ieee 16th international symposium on intelligent systems and informatics, proceedings"	1	111	0
+234	"sisy 2023 - ieee 21st international symposium on intelligent systems and informatics, proceedings"	1	1	0
+235	"sisy 2024 - ieee 22nd international symposium on intelligent systems and informatics, proceedings"	1	0	0
+236	"smart innovation, systems and technologies"	4	20	0
+237	smart learning environments	2	646	1
+238	"software engineering education conference, proceedings"	1	0	0
+239	sustainability (switzerland)	8	341	0
+240	"tale 2019 - 2019 ieee international conference on engineering, technology and education"	1	29	0
+241	"technology, knowledge and learning"	2	20	0
+242	techtrends	1	5	0
+243	telecommunications policy	1	12	0

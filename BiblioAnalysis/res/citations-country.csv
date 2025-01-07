@@ -1,0 +1,84 @@
+id,country,documents,citations,total link strength
+80,united states,87,3909,2
+3,australia,18,2694,2
+31,india,62,2324,0
+29,hong kong,16,2294,1
+66,south africa,7,1919,0
+79,united kingdom,21,1877,1
+72,taiwan,16,1830,0
+25,germany,27,1717,0
+49,new zealand,4,1684,0
+48,netherlands,7,1654,0
+68,spain,15,1574,0
+62,saudi arabia,6,1551,0
+37,italy,15,1545,0
+71,switzerland,4,1527,0
+57,poland,4,1521,0
+24,france,4,1516,0
+64,singapore,6,1505,4
+59,qatar,3,1503,0
+52,oman,3,1502,0
+51,norway,1,1502,0
+19,denmark,1,1502,0
+14,china,31,1357,2
+76,turkey,5,738,2
+18,czech republic,5,422,0
+12,canada,11,412,0
+45,malaysia,15,307,4
+20,ecuador,10,222,0
+67,south korea,8,183,0
+4,austria,7,175,0
+70,sweden,9,168,0
+65,slovenia,3,168,0
+78,united arab emirates,16,161,0
+32,indonesia,14,157,0
+39,japan,5,129,0
+26,ghana,1,120,0
+82,viet nam,3,120,0
+30,hungary,4,112,0
+27,greece,4,97,0
+44,lithuania,2,89,0
+46,mexico,3,82,0
+34,iraq,4,80,0
+55,peru,9,76,0
+54,palestine,3,63,0
+60,romania,6,56,0
+7,bosnia and herzegovina,2,41,0
+6,bangladesh,5,41,0
+47,morocco,9,37,0
+56,philippines,2,34,0
+9,bulgaria,2,33,0
+83,zimbabwe,1,26,0
+36,israel,1,23,0
+42,lebanon,2,21,0
+5,bahrain,3,20,0
+53,pakistan,2,19,0
+63,serbia,1,19,0
+16,croatia,5,19,0
+77,ukraine,2,17,0
+17,cyprus,1,16,0
+8,brazil,9,13,0
+23,finland,4,13,0
+58,portugal,4,12,0
+50,nigeria,4,11,0
+13,chile,4,11,0
+43,lesotho,1,9,0
+15,colombia,4,9,0
+73,thailand,2,7,0
+69,sri lanka,4,6,0
+74,the findings group,1,4,0
+28,guatemala,2,4,0
+40,kazakhstan,2,3,0
+35,ireland,1,2,0
+61,russian federation,4,2,0
+11,california,1,2,0
+10,burkina faso,1,1,0
+75,trinidad and tobago,1,1,0
+81,uzbekistan,4,0,0
+21,egypt,2,0,0
+22,estonia,1,0,0
+33,iran,2,0,0
+38,jamaica,1,0,0
+41,kenya,1,0,0
+2,argentina,1,0,0
+1,amp,1,0,0

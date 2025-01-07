@@ -1,0 +1,1001 @@
+﻿id	author	documents	citations	total link strength
+12	"adarkwah, michael agyemang"	1	646	2
+21	"agyemang, brighter"	1	646	2
+223	"bozkurt, aras"	1	646	2
+285	"chaw, lee yen"	2	1	7
+309	"chiu, thomas k.f."	2	103	1
+351	"das, dipankar"	1	50	2
+382	"dey, monalisa"	1	50	2
+484	"garda, kevin"	1	50	2
+592	"hickey, daniel t."	1	646	2
+616	"huang, ronghuai"	1	646	2
+745	"keržič, damijana"	1	1	0
+746	"kesarwani, sarthak"	1	8	0
+747	"khan, haidar"	1	18	0
+748	"khan, md mizanur rahman riad"	1	1	0
+749	"khandakar, hissan"	1	0	0
+750	"khanfar, ahmad"	1	89	0
+751	"khorana, sangeeta"	1	1502	0
+752	"kiafar, behdokht"	1	10	0
+753	"kim, hyeoncheol"	1	0	0
+754	"kim, juho"	1	5	0
+755	"kingchang, thanarat"	1	7	0
+756	"kirste, thomas"	1	1	0
+757	"kiryakoza, fadi"	1	0	0
+758	"klisarova-belcheva, stanislava"	1	31	0
+759	"klyshbekova, maira"	1	2	0
+760	"ko, hongkyu"	1	0	0
+761	"kobara, yawo m."	1	2	0
+762	"kodali, ravi kishore"	1	0	0
+763	"koedinger, kenneth r."	1	0	0
+764	"kofuji, sergio takeo"	1	1	0
+765	"kokošková, vendula"	1	12	0
+766	"konecki, mario"	1	10	0
+767	"konecki, mladen"	1	10	0
+768	"koohang, alex"	1	1502	0
+769	"korolyova, ekaterina vyacheslavovna"	1	0	0
+770	"kortbi, imane el"	1	0	0
+771	"koshy, richie suresh"	1	0	0
+772	"kotis, konstantinos"	1	93	0
+773	"kotuwegedara, thamashi"	1	1	0
+774	"kovačević, darko"	1	40	0
+775	"kowsher, md."	1	28	0
+776	"kraus, sascha"	1	1502	0
+777	"krauss, christopher"	1	1	0
+778	"krishnam, nagendra prasad"	1	0	0
+779	"krouska, akrivi"	1	1	0
+780	"krusche, stephan"	1	0	0
+781	"kshetri, nir"	1	1502	0
+782	"kucukergin, kemal gurkan"	1	9	0
+783	"kudale, amol"	1	0	0
+784	"kullu, pinar"	1	10	0
+785	"kumar, aishwarya mudgal sunil"	1	0	0
+786	"kumar, amit"	1	4	0
+787	"kumar, g.m. prem"	1	0	0
+788	"kumar, harsh"	2	0	0
+789	"kumar, rajiv"	1	4	0
+790	"kumar, vikash"	1	2	0
+791	"kumaraswamy, r."	1	0	0
+792	"kurup, lakshmi"	1	3	0
+793	"kuzmenko, ella yurievna"	1	0	0
+794	"kuzminykh, anastasia"	1	0	0
+795	"kuznetsov, alexander alexandrovich"	1	0	0
+796	"kárpáti, attila"	1	1	0
+797	"köhler, thomas"	1	0	0
+798	"la marca, alessandra"	1	0	0
+799	"lahiala, abdelfattah"	1	0	0
+800	"lahiala, mohamed amine"	1	0	0
+801	"lakshmi, g."	1	1	0
+802	"lam, wing"	1	115	0
+803	"lambertsson, karl"	1	0	0
+804	"lan, haoyong"	1	0	0
+805	"lange, ingrid"	1	28	0
+806	"lange, tim"	1	0	10
+807	"lange, tim c."	1	1	10
+808	"lanman, brandan"	1	20	0
+809	"larasati, pramitha dwi"	1	0	0
+810	"larsen, kai r."	1	1502	0
+811	"latham, annabel"	1	30	0
+812	"latoza, thomas d."	1	115	0
+813	"latreille, paul"	1	1502	0
+814	"latta, jason"	1	2	0
+815	"laumer, sven"	1	1502	0
+816	"lecce, amelia"	1	0	0
+817	"lee, chien ching"	1	0	0
+818	"lee, dabae"	2	56	0
+819	"lee, hsin-yu"	1	0	0
+820	"lee, hwee hoon"	1	0	0
+821	"lee, sang-yoon"	1	20	0
+822	"lee, seonghee"	1	5	0
+823	"lee, terri"	2	181	0
+824	"lee, unggi"	2	1	0
+825	"lee, yunseo"	1	0	0
+826	"lei, yue"	1	2	0
+827	"leigh, jason"	1	20	0
+828	"leone, antonella"	1	0	0
+829	"lepp, haley"	1	8	0
+830	"leung, henry m.f."	1	1	0
+831	"leung, martin yun-yee"	1	0	0
+832	"leung, wai sze"	1	6	0
+833	"lezcano, leonardo"	1	15	0
+834	"li, danling"	2	45	0
+835	"li, erin"	1	3	0
+836	"li, jicheng"	1	10	0
+837	"li, jingting"	1	4	0
+838	"li, kay"	1	21	0
+839	"li, lei"	1	6	0
+840	"li, lili"	1	2	0
+841	"li, ping-ping"	1	14	0
+842	"li, sean"	1	3	0
+843	"li, xiaojie"	1	5	0
+844	"li, yan"	2	15	1
+845	"li, yanyan"	1	1	0
+846	"li, yujiao"	1	0	0
+847	"lieb, anna"	1	2	0
+848	"likhita, vangaveti"	1	0	0
+849	"limone, pierpaolo"	1	4	0
+850	"lin, hung-ming"	1	1	0
+851	"lin, jiacheng"	1	17	0
+852	"lin, jionghao"	1	0	0
+853	"lin, michael pin-chuan"	1	64	0
+854	"lin, qingran"	1	5	0
+855	"lin, xiushui"	1	0	0
+856	"lin, yu-chen"	1	0	0
+857	"lin, zhiyuan jerry"	1	27	0
+858	"ling, lin"	1	0	0
+859	"linh, pham my"	1	6	0
+860	"linxen, andrea"	1	0	0
+861	"lippitsch, antonia"	1	0	0
+862	"lister, kate"	1	16	0
+863	"liu, beiye"	1	18	0
+864	"liu, chao"	1	2	0
+865	"liu, chen-chung"	1	1	0
+866	"liu, huan"	1	0	0
+867	"liu, li"	1	31	0
+868	"liu, min"	1	1	0
+869	"liu, pinyang"	1	2	0
+870	"liu, sophia"	1	7	0
+871	"liu, taoran"	1	5	0
+872	"liu, tsai-pei"	1	4	0
+873	"liu, yani"	1	0	0
+874	"liu, yuqi"	1	0	0
+875	"liut, michael"	2	0	0
+876	"lo, chung kwan"	3	626	0
+877	"lo, fang-ying"	1	1	0
+878	"lokeswari, yaratapalli"	1	7	0
+879	"londoño-gallego, jennifer andrea"	1	2	0
+880	"longo, leonarda"	1	0	0
+881	"lopez, fernando l. gutierrez"	1	1	0
+882	"lopez-carreno, joseph"	1	1	0
+883	"lorenzo, carlos-miguel"	1	15	0
+884	"low, malcolm yoke hean"	1	0	0
+885	"lozano, alba"	1	17	0
+886	"lu, jianhua"	1	18	0
+887	"lu, liming"	1	0	0
+888	"lucero fredes, alexis"	1	2	0
+889	"ludwig, christiane"	1	0	0
+890	"lund, brady d."	1	336	0
+891	"luo, wengxing"	1	0	0
+892	"lutfiani, ninda"	1	19	0
+893	"lutfiyya, hanan"	1	165	0
+894	"lópez núñez, julio c."	1	1	0
+895	"maach, abdelilah"	1	13	0
+896	"mabić, mirela"	1	1	0
+897	"mabrito, mark"	1	0	0
+898	"macchiarulo, nicola"	1	0	0
+899	"maclellan, chris"	1	0	0
+900	"madan, kapil"	1	0	0
+901	"madani, abdellah"	1	1	0
+902	"madhumithra, t."	1	0	0
+903	"mageira, kleopatra"	1	93	0
+904	"mahmud, saadman"	1	11	0
+905	"maia, paulo henrique m."	1	5	0
+906	"maiti, pratyusha"	2	3	0
+907	"makhmudova, nargiza"	1	0	0
+908	"maksimova, alisa"	1	2	0
+909	"malathi, s."	1	1	0
+910	"malik, f. tegwen"	1	1502	0
+911	"mallari, tanner"	1	3	0
+912	"malmström, hans"	1	6	0
+913	"mamo, yoseph"	1	5	0
+914	"manathunga, kalpani"	1	1	0
+915	"manfredi, gilda"	1	5	0
+916	"manic, milos"	1	27	0
+917	"manman, luo"	1	0	0
+918	"mannuru, nishith reddy"	1	336	0
+919	"manohara, h.t."	1	0	0
+920	"mansor, evi indriasari"	1	6	0
+921	"manzocco, mario"	1	0	0
+922	"manzotti, alessandro"	1	18	0
+923	"mao, zhongyang"	1	5	0
+924	"maphosa, mfowabo"	1	26	0
+925	"maphosa, vusumuzi"	1	26	0
+926	"marchena sekli, giulio f."	1	0	0
+927	"mardani, abbas"	1	1502	0
+928	"marghitu, daniela"	1	4	0
+929	"marhaban, mohammad hamiruce"	1	6	0
+930	"mariani, marcello"	1	1502	0
+931	"marimganti, madhumitha"	1	4	0
+932	"mariscal-vivas, gonzalo"	1	0	0
+933	"marks, jenna"	1	6	0
+934	"marquez-hernandez, rommy"	1	10	0
+935	"marquès puig, joan manuel"	1	3	0
+936	"marsico, emanuele"	1	4	0
+937	"martin, christopher"	1	1	0
+938	"martin, florence"	1	8	0
+939	"martinez, miguel angel quiroz"	1	3	0
+940	"martins, alan rabelo"	1	5	0
+941	"martín-ramallal, pablo"	1	15	0
+942	"martínez-requejo, sonia"	1	0	0
+943	"mary, s. suma christal"	1	0	0
+944	"mas, antonia"	1	2	0
+945	"masson, eloisa toffano seidel"	1	1	0
+946	"matamoros, ricardo anibal"	1	1	0
+947	"matar, khaled"	1	0	0
+948	"mathew, ann neethu"	1	23	0
+949	"mathew, joel"	1	0	0
+950	"mathur, a."	1	17	0
+951	"mayer, richard e."	1	77	0
+952	"mazher, noman"	1	19	0
+953	"mckenna, h. patricia"	1	14	0
+954	"mcklin, tom"	1	4	0
+955	"mclaren, bruce m."	2	218	0
+956	"mctear, michael f."	1	0	0
+957	"md moheuddin, mir"	1	28	0
+958	"medina romero, miguel ángel"	1	51	0
+959	"medina, johanne"	2	1	0
+960	"mehlin, vanessa"	1	1	0
+961	"mehnen, lars"	1	0	0
+962	"mehrfar, abdollah"	1	0	0
+963	"meiselwitz, gabriele"	1	2	0
+964	"mejtoft, thomas"	1	0	0
+965	"mello, rafael ferreira"	1	5	0
+966	"mendes, antonio jose"	1	9	0
+967	"mendonça, fábio lúcio lopes"	1	1	0
+968	"menkhoff, thomas"	1	2	0
+969	"merchán-murillo, antonio"	1	15	0
+970	"merlin, andrija"	1	0	0
+971	"mesquida, antoni-lluís"	1	2	0
+972	"michal, jakub"	1	3	0
+973	"michot, janick"	1	0	0
+974	"milhem, marwan"	1	17	0
+975	"mills, nishan"	1	27	0
+976	"milrad, marcelo"	1	0	0
+977	"milutinovic, goran"	1	5	0
+978	"min, qingfei"	1	0	0
+979	"ming, wai-kit"	1	5	0
+980	"miranda, péricles"	1	5	0
+981	"mirza, imran ali"	1	0	0
+982	"mirzayeva, dilshoda"	1	0	0
+983	"misal, sharlene"	1	0	0
+984	"mishra, anjana"	1	2	0
+985	"misra, abhishek"	1	2	0
+986	"mithas, sunil"	1	1502	0
+987	"mitsuhara, hiroyuki"	1	3	0
+988	"mittal, anirudh"	1	2	0
+989	"mittal, neetu"	1	1	0
+990	"mittal, v."	1	17	0
+991	"miyazaki, keisuke"	1	1	0
+992	"modran, horia alexandru"	1	0	0
+993	"mogaji, emmanuel"	1	1502	0
+994	"mohamed, azza"	2	0	0
+995	"mohamed, ben ahmed"	1	0	0
+996	"mohammed, phaedra"	1	1	0
+997	"mohanapriya, t."	1	0	0
+998	"moharir, minal"	1	3	0
+999	"mohd rahim, noor irliana"	1	107	0
+1000	"molefi, rethabile rosemary"	1	9	0
+1001	"molina, josé manuel"	1	8	0
+1002	"molnar, gyorgy"	1	111	0
+1003	"mon, chit su"	1	2	0
+1004	"mondal, anupam"	1	50	2
+1005	"mondal, sweety"	1	2	0
+1006	"monika rani, h.g."	1	3	0
+1007	"monserrat, maria"	1	2	0
+1008	"moore, steven"	1	0	0
+1009	"moorhouse, benjamin luke"	1	103	0
+1010	"moraes neto, antônio j."	1	0	0
+1011	"moran, kevin"	1	115	0
+1012	"moreira, fernando"	1	0	0
+1013	"mostafa, mohamed m.m."	1	0	0
+1014	"mouti, samar"	1	1	0
+1015	"mozgai, sharon"	1	4	0
+1016	"mullo-ca, karen"	1	21	0
+1017	"mulvenna, maurice d."	1	0	0
+1018	"mulyana, eueung"	1	16	0
+1019	"munir, hussan"	1	55	0
+1020	"murad, masrah azrifah azmi"	1	6	0
+1021	"murali, m."	1	0	0
+1022	"muriithi, betsy"	1	0	0
+1023	"murugan, jayalakshmi"	1	0	0
+1024	"musabirov, ilya"	1	0	0
+1025	"muschko, marc"	1	33	0
+1026	"muslu, nilay"	1	4	0
+1027	"mustafa, mohammad"	1	2	0
+1028	"muthmainnah, muthmainnah"	1	0	0
+1029	"nabokov, leonid valerievich"	1	0	0
+1030	"nagaraj, k.v."	1	2	0
+1031	"naghmeh-abbaspour, bita"	2	89	0
+1032	"nagpal, sachit"	1	50	2
+1033	"nam, le nguyen hoai"	1	116	0
+1034	"nambiar, rajiv"	1	11	0
+1035	"nand, nayan"	1	0	0
+1036	"nandan, vrinda"	1	3	0
+1037	"nandula, alekhya"	1	3	0
+1038	"nandwani, ishita"	1	58	0
+1039	"nascimento, andré"	1	5	0
+1040	"nasharuddin, nurul amelina"	1	6	0
+1041	"natarajan, pradeep"	1	18	0
+1042	"natarajan, prem"	1	18	0
+1043	"navas, gustavo"	1	0	0
+1044	"navas-reascos, gabriel e."	1	0	0
+1045	"navas-reascos, gustavo"	1	0	0
+1046	"ndlovu, mdutshekelwa"	1	26	0
+1047	"negi, niharika"	1	2	0
+1048	"neumann, michael"	1	54	0
+1049	"newton, t. terry"	1	5	0
+1050	"neykova, rumyana"	1	0	0
+1051	"ng, davy tsz kit"	1	0	0
+1052	"ng, vanessa s.c."	1	1	0
+1053	"ngo, thi thuy an"	1	0	0
+1054	"nguyen, austin"	1	0	0
+1055	"nguyen, gina"	1	3	0
+1056	"nguyen, nghi hoang"	1	2	0
+1057	"nguyen, phuong thy"	1	0	0
+1058	"nhung, ho le thi kim"	1	116	0
+1059	"niam ibna riza, a."	1	6	0
+1060	"nickel, christine"	1	5	0
+1061	"nicolaescu, stefan vladimir"	1	14	0
+1062	"nie, bing"	1	336	0
+1063	"niedbal, rafal"	1	3	0
+1064	"nikam, kaushal sanjay"	1	0	0
+1065	"nikou, stavros a."	1	0	0
+1066	"niloy, ahnaf chowdhury"	1	11	0
+1067	"nishat, nurunnahar"	1	11	0
+1068	"nitcharla, somasekhararao"	1	2	0
+1069	"nizomova, nargiza"	1	0	0
+1070	"nord, jeretta horn"	1	1502	0
+1071	"novotná, jarmila"	1	3	0
+1072	"nugroho, agung"	1	6	0
+1073	"nurfaizin, safaah"	1	6	0
+1074	"nye, benjamin d."	1	2	0
+1075	"o'connor, siobhan"	1	1502	0
+1076	"o'shea, james d."	1	30	0
+1077	"obamiyi, stephen e."	1	0	0
+1078	"oberer, birgit"	1	1	0
+1079	"odede, julius"	1	3	0
+1080	"offodile, onyebuchi felix"	1	2	0
+1081	"ogamba, maria"	1	0	0
+1082	"oguntimilehin, abiodun"	1	0	0
+1083	"okebule, toyin"	1	0	0
+1084	"okmanis, rihards"	1	0	0
+1085	"okonkwo, chinedu wilfred"	1	338	0
+1086	"okulu, hasan zuhtu"	1	4	0
+1087	"okumus, fevzi"	1	1502	0
+1088	"oliveira, francisco c. m. b."	1	5	0
+1089	"oliveira, hugo goncalo"	1	9	0
+1090	"olmez, ibrahim burak"	1	2	0
+1091	"olukuru, john"	1	0	0
+1092	"omar, mohd khaizer"	1	6	0
+1093	"omidiora, joseph olamide"	1	10	0
+1094	"onah, bernadine ifeoma"	1	0	0
+1095	"opel, simone"	1	0	0
+1096	"orbisor, bianca"	1	0	0
+1097	"ortega-ochoa, elvis"	1	3	0
+1098	"ortiqov, rustam"	1	0	0
+1099	"orénúñez, elizabeth"	1	8	0
+1100	"oswalt manoj, s."	1	0	0
+1101	"ou, amy wanyu"	1	6	0
+1102	"ouedraogo, ismaila"	1	1	0
+1103	"owczarzak, karolina"	1	18	0
+1104	"owolabi, josiah"	1	2	0
+1105	"owusu, samuel"	1	0	0
+1106	"oyelere, solomon sunday"	1	10	0
+1107	"oz, gokmen"	1	18	0
+1108	"ozcan, aydogan"	1	1	0
+1109	"pachina, natalia"	1	0	0
+1110	"pack, austin"	1	47	0
+1111	"pagani, margherita"	1	1502	0
+1112	"pahos, nikolaos"	1	16	0
+1113	"paiman, nuur azreen"	1	0	0
+1114	"palacios-pacheco, xavier"	3	181	0
+1115	"palumbo, enrico"	1	18	0
+1116	"panchal, mahesh"	1	3	5
+1117	"panchal, vidhish"	1	3	0
+1118	"pandey, neeraj"	1	1502	0
+1119	"panduro, walker diaz"	1	51	0
+1120	"pant, lalit mohan"	1	4	0
+1121	"papagiannidis, savvas"	1	1502	0
+1122	"papakostas, christos"	1	1	0
+1123	"papasalouros, andreas"	1	93	0
+1124	"pappas, ilias o."	1	1502	0
+1125	"parakash, divya"	1	19	0
+1126	"paredes-valverde, yolanda"	1	2	0
+1127	"pareek, ritawari"	1	0	0
+1128	"pargaien, saurabh"	1	2	0
+1129	"pari-bedoya, ilda nadia monica de la asuncion"	1	6	0
+1130	"parker, jeanne"	1	20	0
+1131	"parker, shane"	1	20	0
+1132	"parlikad, ajith kumar"	1	165	0
+1133	"parmacli, ivan"	1	0	0
+1134	"pasterk, stefan"	1	7	0
+1135	"patel, falguni"	1	58	0
+1136	"patel, hemlata"	1	0	0
+1137	"patel, megha"	1	10	0
+1138	"patel, mili"	1	7	0
+1139	"patel, nadya shaznay"	1	0	0
+1140	"patel, preeti"	1	6	0
+1141	"patel, shreyansh"	1	0	0
+1142	"patel, vinod"	1	35	0
+1143	"pathak, nabankur"	1	0	0
+1144	"pathak, nishith"	1	1502	0
+1145	"patros, panos"	1	165	0
+1146	"paul, sonipriya"	1	1	0
+1147	"paulose, joy"	1	23	0
+1148	"pavan kumar, p."	1	0	0
+1149	"pavithra, s."	1	2	0
+1150	"pawar, aditya"	1	0	0
+1151	"pearce, kate"	1	7	0
+1152	"peney, lee"	1	0	0
+1153	"pereira, rodrigo"	1	3	0
+1154	"peri, pinaka pani"	1	2	0
+1155	"peris, charith"	1	18	0
+1156	"pernaa, johannes"	1	2	0
+1157	"pesonen, reija"	1	2	0
+1158	"phillips, vidith"	1	0	0
+1159	"phutela, nidhi"	1	1	0
+1160	"piech, chris"	1	45	0
+1161	"pinto, tiago"	1	3	0
+1162	"pittou, dimitra"	1	93	0
+1163	"pohn, birgit"	1	0	0
+1164	"pokryshen, dmytro a."	1	1	0
+1165	"polin, johora akter"	1	1	0
+1166	"polyportis, athanasios"	2	29	0
+1167	"popovici, alexandru-filip"	1	0	0
+1168	"popovici, matei-dan"	1	10	0
+1169	"potančok, martin"	1	1	0
+1170	"potgieter, petrus h."	1	12	0
+1171	"prabhu, s. nagendra"	1	7	0
+1172	"prakash, chandana satya"	1	18	0
+1173	"pranav, uddaraju sai"	1	0	0
+1174	"praničević, daniela garbin"	1	1	0
+1175	"prasad kotni, v.v. devi"	1	2	0
+1176	"prasad vemuri, veena"	1	0	0
+1177	"prasheila, s."	1	0	0
+1178	"prastikawati, entika fani"	1	0	0
+1179	"pries-heje, jan"	1	1502	0
+1180	"prieto, maria lorena"	1	0	0
+1181	"primo, tiago thompsen"	1	0	0
+1182	"princes, elfindah"	1	1	0
+1183	"proaño-orellana, julio"	1	0	0
+1184	"puertas, enrique"	2	0	0
+1185	"pukale, neha"	1	0	0
+1186	"pundir, sumit"	1	4	0
+1187	"purgathofer, peter"	1	2	0
+1188	"pushpalatha, k."	1	3	0
+1189	"qaffas, alaa a"	1	21	0
+1190	"qi, cong"	1	2	0
+1191	"qi, xintong"	1	4	0
+1192	"qian, fang"	1	0	0
+1193	"qin, congyao"	1	11	0
+1194	"qodirova, mamlakat"	1	0	0
+1195	"quiroga pérez, josé"	1	3	0
+1196	"quispe, isaac merino"	1	51	0
+1197	"quispe-herrera, rosel"	1	2	0
+1198	"rachuri, savitha"	1	0	0
+1199	"radváková, věra"	1	1	0
+1200	"rafi, suzzana"	1	115	0
+1201	"raghavan, vishnupriya"	1	1502	0
+1202	"raghavendra, c.g."	1	31	0
+1203	"raghu, t."	1	0	0
+1204	"rahardja, untung"	1	19	0
+1205	"rahman, md. mahfuzur"	1	1	0
+1206	"rahman, mohamad haidar syaifullah"	1	0	0
+1207	"rahman, mohammad ishtiaque"	1	1	0
+1208	"raisa, fareha meem"	1	11	0
+1209	"raj, adithya pothan"	1	2	0
+1210	"rajagopal, a."	1	5	0
+1211	"rajasekaran, danush"	1	10	0
+1212	"rakshith, u.r."	1	4	0
+1213	"ramakrishnan, ritu"	1	0	0
+1214	"raman, ramakrishnan"	1	1502	0
+1215	"ramanarayanan, vikram"	1	8	0
+1216	"ramirez, jorge"	1	31	0
+1217	"ramirez-barrera, andres"	1	5	0
+1218	"ramos pinho, paulo cesar"	1	0	0
+1219	"ramos-galarza, carlos"	2	10	0
+1220	"ramyaa, s."	1	2	0
+1221	"ramírez, andres fabian arteaga"	1	3	0
+1222	"rana, nripendra p."	1	1502	0
+1223	"rana, omer"	1	165	0
+1224	"ranganathan, v. pranav"	1	0	0
+1225	"ranjan palai, deepanshu"	1	2	0
+1226	"rao, sanjeev"	1	0	0
+1227	"rao, shreyas suresh"	1	3	0
+1228	"rasli, roznim mohamed"	1	1	0
+1229	"rauschenberger, maria"	1	54	0
+1230	"ravuri, benhur"	1	1	0
+1231	"ravšelj, dejan"	1	1	0
+1232	"rawls, stephen"	1	18	0
+1233	"ray, lydia"	1	1	0
+1234	"raza, muhammad raheel"	1	2	0
+1235	"reddy, k.dheeraj datta"	1	0	0
+1236	"reddy, patil santhosh"	1	0	0
+1237	"reed, kevin"	1	2	0
+1238	"rega, angelo"	1	0	0
+1239	"rehm, sven-volker"	1	1502	0
+1240	"reich, justin"	1	0	0
+1241	"reilly, adam"	1	4	0
+1242	"reis, arsénio"	1	3	0
+1243	"reis, ingrid weingartner"	1	0	0
+1244	"rejeb, abderahman"	1	0	0
+1245	"remmers, joris c."	1	3	0
+1246	"reray, lisa"	1	1	0
+1247	"resch, olaf"	1	6	0
+1248	"revanth kumar reddy, r."	1	0	0
+1249	"revanya devi, m."	1	1	0
+1250	"reyes, roberto"	1	31	0
+1251	"reyes-moreno, enevis rafael"	1	2	0
+1252	"reza, mohi"	1	0	0
+1253	"ribeiro, francisco carlos"	1	1	0
+1254	"ribeiro-navarrete, samuel"	1	1502	0
+1255	"ricanek, karl"	1	0	0
+1256	"richard, rohan paul"	1	0	0
+1257	"richards, deborah"	1	0	0
+1258	"richter, alexander"	1	1502	0
+1259	"rieger, michael"	1	0	0
+1260	"rihawi, samer"	1	1	0
+1261	"rincon-novoa, jeisson"	1	5	0
+1262	"rittberger, marc"	1	0	0
+1263	"rivera-mamani, freddy abel"	1	2	0
+1264	"rivoli, alessio"	1	3	0
+1265	"rizzardini, rocael hernández"	1	0	0
+1266	"rizzo, albert a."	1	63	0
+1267	"robayo-pinzon, oscar"	1	5	0
+1268	"robbins, tim"	1	35	0
+1269	"robra-bissantz, susanne"	2	1	16
+1270	"rocha, andré"	1	0	0
+1271	"rodrigo, ma. mercedes t."	1	30	0
+1272	"rodriguez-huamán, rosa e."	1	0	0
+1273	"rodríguez-lera, francisco javier"	1	0	0
+1274	"rodríguez-sedano, francisco"	1	0	0
+1275	"rohini, v."	1	23	0
+1276	"roja shuruthika, k."	1	0	0
+1277	"rojas-berrio, sandra"	1	5	0
+1278	"rojashree, v."	1	0	0
+1279	"rolim, vitor"	1	5	0
+1280	"roman-cañizares, milton"	1	21	0
+1281	"romaní-claros, alfonso"	1	2	0
+1282	"román-cañizares, milton"	1	103	0
+1283	"roopaei, mehdi"	1	0	0
+1284	"rosenbaum, andy"	1	18	0
+1285	"rosul, md. golam"	1	28	0
+1286	"rosy salomi victoria, d."	1	0	0
+1287	"rotanova, mira b."	1	1	0
+1288	"rowe, frantz"	1	1502	0
+1289	"rudolph, eric"	1	1	0
+1290	"ruiz-mondaza, mercedes"	1	15	0
+1291	"rummel, nikol"	1	2	0
+1292	"saadane, rachid"	1	3	0
+1293	"saadna, youness"	1	16	0
+1294	"sabeh, hala najwan"	1	0	0
+1295	"sachdeva, n."	1	17	0
+1296	"safa, nehme"	1	16	0
+1297	"sagae, kenji"	1	63	0
+1298	"saha, koustuv"	1	68	0
+1299	"sahane, prema"	1	0	0
+1300	"saihi, afef"	1	3	0
+1301	"sakellariou, rizos"	1	165	0
+1302	"sakib, md. mamun"	1	1	0
+1303	"sakib, nazmus"	1	6	0
+1304	"salem, maha"	1	1	0
+1305	"salminen, joni"	2	1	0
+1306	"samadova, nargiza"	1	0	0
+1307	"samala, agariadne dwinggo"	1	19	0
+1308	"samatov, muhiddin"	1	0	0
+1309	"samian, normalia"	1	6	0
+1310	"samoilă, cornel"	1	0	0
+1311	"samuel azariya, s. david"	1	1	0
+1312	"san pedro, maria ofelia clarissa z."	1	30	0
+1313	"sanders, leslie"	1	21	0
+1314	"sandoussi, rima"	1	0	0
+1315	"sandu, nitirajsingh"	1	108	0
+1316	"sankar, s."	1	2	0
+1317	"santana, rafael"	1	5	0
+1318	"santiago, grisi bernardo"	1	8	0
+1319	"santos-fernández, juan p."	1	0	0
+1320	"santosa, paulus insap"	1	6	0
+1321	"santosh, kathari"	1	0	0
+1322	"sanusi, ismaila temitayo"	1	10	0
+1323	"sanya, oluwafemi a."	1	0	0
+1324	"sapna, r."	1	3	0
+1325	"saravanan, abhinaya"	1	1	0
+1326	"sarensanth, c."	1	0	0
+1327	"sarkar, moumita"	1	11	0
+1328	"sarker, suprateek"	1	1502	0
+1329	"sarma, surajit"	1	0	0
+1330	"sarsam, samer muthana"	1	2	0
+1331	"sartono, eduardus steven"	1	1	0
+1332	"sauerwein, clemens"	1	0	0
+1333	"scarlett, horrett"	1	0	0
+1334	"schacht, sigurd"	1	1	0
+1335	"schaefer, darlene"	1	8	0
+1336	"scherer, christian"	1	0	0
+1337	"schlimbach, ricarda"	2	1	16
+1338	"schmid, elena"	1	1	0
+1339	"schmid, tamara"	1	33	0
+1340	"schneider, jan"	1	0	0
+1341	"schon, eva-maria"	1	54	0
+1342	"schoop, mareike"	1	1	0
+1343	"schoormann, thorsten"	2	1	16
+1344	"schreiberova, petra"	1	399	0
+1345	"schuster, dennis"	1	0	0
+1346	"schöffmann, klaus"	1	7	0
+1347	"sciarrone, filippo"	3	8	0
+1348	"scuotto, chiara"	1	4	0
+1349	"segerer, stephan"	1	0	0
+1350	"seghir, hakima"	1	0	0
+1351	"seipel, stefan"	1	5	0
+1352	"sen, amit"	1	11	0
+1353	"senali, madugoda gunaratnege"	2	89	0
+1354	"sengul, cigdem"	1	0	0
+1355	"sentanu, al ghifari enerza"	1	0	0
+1356	"senthujan, b."	1	1	0
+1357	"seo, wonchul"	1	1	0
+1358	"septian, rafly ananda dwi"	1	19	0
+1359	"serik, meruyert"	1	1	0
+1360	"sernaque, fernando"	1	8	0
+1361	"seufert, sabine"	2	25	0
+1362	"sevilla, joseph"	1	0	0
+1363	"sgouropoulou, cleo"	1	1	0
+1364	"shaalan, khaled"	5	28	0
+1365	"shagalova, polina"	1	1	0
+1366	"shah, milind h"	1	3	5
+1367	"shahbodin, faaizah"	1	6	0
+1368	"shanbhag, arun"	1	0	0
+1369	"sharef, nurfadhlina mohd"	1	6	0
+1370	"sharma, saroj"	1	0	0
+1371	"sharma, silky"	1	2	0
+1372	"sharma, sonal"	1	4	0
+1373	"sharmin, shayla"	1	10	0
+1374	"sharo, abdulla"	1	14	0
+1375	"shehata, boulus"	1	646	2
+1376	"sheng, hao"	1	27	0
+1377	"shenoy, anjali"	1	18	0
+1378	"shi, jiakai"	1	0	0
+1379	"shi, yao"	1	0	0
+1380	"shiel, aaron"	1	2	0
+1381	"shimichev, alexey s."	1	1	0
+1382	"shimray, somipam"	1	336	0
+1383	"shin, hyungyu"	1	5	0
+1384	"shin, jaeyoon"	1	0	0
+1385	"shin, masako"	1	1	0
+1386	"shishibori, masami"	1	3	0
+1387	"shivashankar, bhuvana"	1	3	0
+1388	"shobhanali, n."	1	1	0
+1389	"shyam, archana"	1	1	0
+1390	"siiman, leo a."	1	0	0
+1391	"sikka, harshvardhan"	1	0	0
+1392	"silitonga, lusia maryani"	2	12	0
+1393	"silva, geovana ramos sousa"	1	1	0
+1394	"silva, leonardo"	1	9	0
+1395	"silvano, r."	1	0	0
+1396	"sinah, neelesh"	1	0	0
+1397	"sinclair, peter m."	1	5	0
+1398	"singer, sydney"	1	0	0
+1399	"singh, anish"	1	0	0
+1400	"singh, gurinder"	1	2	0
+1401	"singh, isha"	1	2	0
+1402	"singh, manmeet"	1	165	0
+1403	"singh, pragya"	1	1	0
+1404	"singh, rabindra kumar"	1	0	0
+1405	"singh, rahul"	1	0	0
+1406	"singh, rajesh"	1	0	0
+1407	"singh, saloni"	1	2	0
+1408	"singh, sid"	1	35	0
+1409	"slade, emma louise"	1	1502	0
+1410	"slama, rachel"	1	0	0
+1411	"slavík, martin"	1	7	0
+1412	"smitha, g.r."	1	5	0
+1413	"smutny, pavel"	1	399	0
+1414	"soehardjo, danang widyorukmantiyoro arissetyanto"	1	0	0
+1415	"sokolova, eleonora"	1	1	0
+1416	"sokolowski, adam"	1	3	0
+1417	"soliman, taysir h.a."	1	0	0
+1418	"soliyev, ozodbek"	1	0	0
+1419	"sollne, matthias"	1	0	0
+1420	"solomakha, iryna"	1	16	0
+1421	"soltan, mohamed"	1	2	0
+1422	"soltan, saleh"	1	18	0
+1423	"some, michel j"	1	1	0
+1424	"soms, nisha"	1	1	0
+1425	"son, taekwon"	1	1	0
+1426	"son, yoorim"	1	0	0
+1427	"sonderegger, stefan"	1	10	0
+1428	"song, yukyeong"	1	4	0
+1429	"songpan, wararat"	1	0	0
+1430	"soon, benjamin tze chin"	1	0	0
+1431	"sophia, j.jinu"	1	21	0
+1432	"sosnowski, tomasz"	1	1	0
+1433	"soundappan, m."	1	0	0
+1434	"sousa, armando"	1	0	0
+1435	"sousa, josé"	1	3	0
+1436	"sousa, lino"	1	0	0
+1437	"southerland, sherry"	1	1	0
+1438	"southerland, sherry a."	1	3	0
+1439	"spirgi, lukas"	1	15	0
+1440	"sridar, ramamurti"	1	18	0
+1441	"sridhar, mukund harakere"	1	18	0
+1442	"stahl, bernd carsten"	1	1502	0
+1443	"stamper, john"	1	0	0
+1444	"stanica, iulia"	1	32	0
+1445	"stankovski, vlado"	1	165	0
+1446	"stansfield, kim"	1	3	0
+1447	"starčič, andreja istenič"	1	6	0
+1448	"stefanics, daniela"	1	7	0
+1449	"steglich, jonas"	1	0	0
+1450	"stephen, caleb"	1	0	0
+1451	"stewart, nicola"	1	9	0
+1452	"stoevesandt, dietrich"	1	0	0
+1453	"stöhr, christian"	1	6	0
+1454	"su, hanyu"	1	0	0
+1455	"subasinghe, s.g.t.s."	1	3	0
+1456	"subbareddy, rama"	1	31	0
+1457	"subramani, swathi"	1	0	0
+1458	"suciati, sri"	1	0	0
+1459	"sugandhi, rekha"	1	1	0
+1460	"suhonen, jarkko"	1	10	0
+1461	"sukale, vaibhav"	1	0	0
+1462	"sulaymanova, sevara"	1	0	0
+1463	"sultana, jakia"	1	11	0
+1464	"sun, dan"	1	15	0
+1465	"sun, huihui"	1	0	0
+1466	"sundari, a m anjana"	1	3	0
+1467	"surendra, hithaishi"	1	3	0
+1468	"swaity, hadeel"	1	23	0
+1469	"swathi, m."	1	0	0
+1470	"swathi, r.s.v. rama"	1	0	0
+1471	"syed zainal ariffin, syed mohd zahid"	1	0	0
+1472	"syed, madiha"	1	2	0
+1473	"syzdykbayeva, aigul"	1	2	0
+1474	"szeliga, marcin"	1	0	0
+1475	"szuts, zoltan"	1	111	0
+1476	"szécsi, lászló"	1	1	0
+1477	"sánchez-alonso, salvador"	1	15	0
+1478	"sánchez-reina, j. roberto"	1	0	0
+1479	"sánchez-ticona, robert j."	1	0	0
+1480	"sánchez-viteri, santiago"	1	21	0
+1481	"söderström, ulrik"	1	0	0
+1482	"sültmann, holger"	1	33	0
+1483	"tabunshchyk, viktoriya"	1	52	0
+1484	"tachie-menson, akosua"	1	120	0
+1485	"tack, anaïs"	1	45	0
+1486	"taiye, mohammed"	1	0	0
+1487	"takala, aleksi"	1	2	0
+1488	"talbot, thomas b."	1	63	0
+1489	"tan, chee wei"	2	4	0
+1490	"tan, lizhen"	1	18	0
+1491	"tanaka, mikiko sode"	1	1	0
+1492	"taneja, karan"	2	3	0
+1493	"tang, chun meng"	2	1	7
+1494	"tang, chung man"	1	1	0
+1495	"tang, tiantian"	1	5	0
+1496	"tareq, mehedi hasan"	1	11	0
+1497	"tasnim, syeda tasfia"	1	1	0
+1498	"tasoglu, savas"	1	1	0
+1499	"tatiana, baranova"	1	0	0
+1500	"taylor, z.w."	1	0	0
+1501	"tegoan, noura"	1	0	0
+1502	"tejpal moharekar, tejashree"	1	0	0
+1503	"temperini, marco"	1	3	0
+1504	"teng, daniel chia-en"	1	4	0
+1505	"teo, ying qian lydia"	1	2	0
+1506	"thakore, riya"	1	58	0
+1507	"thakur, raj"	1	0	0
+1508	"thang, le dinh"	1	116	0
+1509	"thangamuthu, priyanka"	1	0	0
+1510	"thews, oliver"	1	0	0
+1511	"thiel, carolin"	1	0	0
+1512	"thomas, danielle r."	1	0	0
+1513	"thomas, juanith mathew"	1	0	0
+1514	"thomas, lims"	1	4	0
+1515	"thongda, nattha"	1	0	0
+1516	"tian, mingyan claire"	1	2	0
+1517	"tian, xiaoyi"	1	4	0
+1518	"tick, andrea"	1	0	0
+1519	"tiganoaia, bogdan"	1	0	0
+1520	"tithi, farhana sharmin"	1	28	0
+1521	titiksha	1	8	0
+1522	"tiwari, manoj kumar"	1	1502	0
+1523	"tiwari, shaurya"	1	2	0
+1524	"tiwari, shrikant"	1	0	0
+1525	"tleumagambetova, danara"	1	1	0
+1526	"tlili, ahmed"	1	646	2
+1527	"tomičić, ivan"	1	0	0
+1528	"tong, yixin"	1	0	0
+1529	"tope-oke, adebusola m."	1	0	0
+1530	"tori, romero"	1	1	0
+1531	"torres-cruz, fred"	1	0	0
+1532	"torres-villanueva, marcelino"	1	0	0
+1533	"toutziaridi, amalia christina"	1	0	0
+1534	"trac, linh"	1	7	0
+1535	"tran, thanh tu"	1	0	0
+1536	"traore, ibrahim"	1	1	0
+1537	"triberti, stefano"	1	4	0
+1538	"triefenbach, fabian"	1	18	0
+1539	"troussas, christos"	1	1	0
+1540	"tsivitanidou, olia"	1	16	0
+1541	"tudor, ruth"	1	16	0
+1542	"tukiainen, markku"	1	10	0
+1543	"tur, gokhan"	1	18	0
+1544	"tuteja, sonal"	1	0	0
+1545	"tuychibaeva, shakhnoza"	1	0	0
+1546	"tyagi, amit kumar"	1	0	0
+1547	"udandarao, v."	1	17	0
+1548	"ueno, noboru"	1	3	0
+1549	"uhlig, steve"	1	165	0
+1550	"ulbricht, vania ribas"	1	0	0
+1551	"ullmann, stefan"	1	1	0
+1552	"umek, lan"	1	1	0
+1553	"ungarala, devi prasad"	1	2	0
+1554	"upender, maloth"	1	0	0
+1555	"upravitelev, max"	1	1	0
+1556	"upreti, yatendra prasad"	1	0	0
+1557	"ursuțiu, doru"	1	0	0
+1558	"usmanova, aziza"	1	0	0
+1559	"usmonova, dono"	1	0	0
+1560	"vaitheeshwari, s."	1	0	0
+1561	"valenzuela, fernando"	1	8	0
+1562	"valtolina, stefano"	1	1	0
+1563	"vamsi, k sai"	1	0	0
+1564	"van brummelen, jessica"	2	54	0
+1565	"van den beemt, antoine"	1	3	0
+1566	"van der aalst, wil"	1	1502	0
+1567	"van meeuwen, ludo w."	1	3	0
+1568	"van poucke, margo"	1	1	0
+1569	"van verma, suraj"	1	0	0
+1570	"vani, reeya"	1	7	0
+1571	"vargas-murillo, alfonso renato"	1	6	0
+1572	"varshitha, d.r."	1	7	0
+1573	"vartiainen, henriikka"	1	10	0
+1574	"vasireddy, bhavana"	1	4	0
+1575	"vazquez, maikel yelandi leyva"	1	3	0
+1576	"vedamanickam, nirmala"	1	5	0
+1577	"veemaraj, ebenezer"	1	0	0
+1578	"velander, johanna"	1	0	0
+1579	"venkatesh, viswanath"	1	1502	0
+1580	"verovko, mariya"	1	16	0
+1581	"verovko, oleksandr"	1	16	0
+1582	"viddy, arkas"	1	0	0
+1583	"vierhauser, michael"	1	0	0
+1584	"viglia, giampaolo"	1	1502	0
+1585	"vignesh, t."	1	4	0
+1586	"villar-vega, hernan francisco"	1	2	0
+1587	"villegas-ch, william"	4	202	0
+1588	vinita	1	7	0
+1589	"vishwakarma, santosh kumar"	1	0	0
+1590	"vivanco, ana ojeda"	1	0	0
+1591	"vivethika, c."	1	0	0
+1592	"vlachopoulos, dimitrios"	1	120	0
+1593	"vogel, bahtijar"	1	55	0
+1594	"vrecar, rafael"	1	2	0
+1595	"vuorio, emmi"	1	2	0
+1596	"vásquez, yaneth"	1	8	0
+1597	"véliz, josé carlos"	1	0	0
+1598	"wade, michael"	1	1502	0
+1599	"wadhawan, isha"	1	7	0
+1600	"wagh, devendra"	1	0	0
+1601	"waghmare, anuja"	1	0	0
+1602	"wagner, felix"	2	1	16
+1603	"wagner, stefan"	1	0	0
+1604	"walls, christopher"	1	20	0
+1605	"walton, paul"	1	1502	0
+1606	"waltzer, tal"	1	21	0
+1607	"wang, bin"	2	14	0
+1608	"wang, bo"	1	0	0
+1609	"wang, fu lee"	1	0	0
+1610	"wang, guangguang"	1	1	0
+1611	"wang, haipeng"	1	5	0
+1612	"wang, hong"	1	5	0
+1613	"wang, jen-hang"	1	0	0
+1614	"wang, jieyu"	1	0	0
+1615	"wang, ming"	1	0	0
+1616	"wang, minkai"	1	0	0
+1617	"wang, qiaosi"	1	68	0
+1618	"wang, quincy q."	1	64	0
+1619	"wang, ting"	1	336	0
+1620	"wang, weiran"	1	0	0
+1621	"wang, xinyuan"	1	0	0
+1622	"wang, yuchen"	1	0	0
+1623	"wang, ziang"	1	336	0
+1624	"wangsa, ketmanto"	1	1	0
+1625	"wannapiroon, panita"	1	7	0
+1626	"wardat, yousef"	1	7	0
+1627	"wardhana, calista syifa putri"	1	1	0
+1628	"warsah, idi"	1	0	0
+1629	"washington, gloria j."	1	5	0
+1630	"watanabe, alice"	1	0	0
+1631	"watters, jacob"	1	2	0
+1632	"weerakoon, chinthanie"	1	1	0
+1633	"weerasinghe, esa"	1	1	0
+1634	"wei, johnny tian-zheng"	1	27	0
+1635	"wei, pan"	1	18	0
+1636	"weinberger, armin"	1	0	0
+1637	"weiss, astrid"	1	2	0
+1638	"weisz, justin d."	1	28	0
+1639	"west, luke"	2	4	0
+1640	"wibowo, santoso"	2	6	0
+1641	"wieser, markus"	1	7	0
+1642	"wijayawardena, g.c.s."	1	3	0
+1643	"wijono, sutarto"	1	19	0
+1644	"wilde, shawn"	1	18	0
+1645	"wilder, bryan"	1	20	0
+1646	"williams, joseph jay"	2	27	0
+1647	"wilson, ann"	1	5	0
+1648	"wirtz, jochen"	1	1502	0
+1649	wiyaka	1	0	0
+1650	"woessner, philipp"	1	33	0
+1651	"wollny, sebastian"	1	0	0
+1652	"wong, josiah"	1	20	0
+1653	"woodfield, casey"	1	0	0
+1654	"woolf, beverly park"	1	13	0
+1655	"wright, ryan"	1	1502	0
+1656	"wrzalik, artur"	1	3	0
+1657	"wu, huaming"	1	165	0
+1658	"wu, rouyi"	1	4	0
+1659	"wu, ting-ting"	2	18	0
+1660	"xiao, ruiwei"	1	0	0
+1661	"xie, haoran"	1	0	0
+1662	"xie, zhengbo"	1	0	0
+1663	"xu, minxian"	1	165	0
+1664	"xu, simin"	1	0	0
+1665	"xu, yeqing"	1	0	0
+1666	"yadav, r.k."	1	17	0
+1667	"yadlapally, dhanush kumar"	1	4	0
+1668	"yameogo, rasmane"	1	1	0
+1669	"yang, chen"	1	0	0
+1670	"yang, qiaohong"	1	5	0
+1671	"yang, rongbin"	1	0	0
+1672	"yang, shanshan"	2	80	0
+1673	"yang, song"	1	2	0
+1674	"yang, su-hang"	1	0	0
+1675	"yang, xinrong"	1	1	0
+1676	"yang, yiling"	1	0	0
+1677	"yankova, aglika"	1	6	0
+1678	"yankova, tania"	1	31	0
+1679	"yao, chun-kai"	1	13	0
+1680	"yassine, fatima ezzahra"	1	0	0
+1681	"yeo, sheunghyun"	2	56	0
+1682	"yeo, yue heng"	1	0	0
+1683	"yetisen, ail k."	1	1	0
+1684	"yigci, defne"	1	1	0
+1685	"yildiz, daniela"	1	0	0
+1686	"yonekura, riki"	1	1	0
+1687	"yordanova, kristina"	1	1	0
+1688	"youness, saadna"	1	0	0
+1689	"yu, haiyang"	1	18	0
+1690	"yu, philip leung ho"	1	0	0
+1691	"yu, qicheng"	1	6	0
+1692	"yu, xinguo"	1	0	0
+1693	"yu, zhong gen"	1	2	0
+1694	"yu, zhonggen"	1	67	0
+1695	"yuan, xiaojun"	1	3	0
+1696	"yuan, xin"	2	4	0
+1697	"yuan, yijia"	1	17	3
+1698	"yuen, joe c.h."	1	1	0
+1699	"yusof, ahmad fadhil"	1	107	0
+1700	"zain, dodi siraj muamar"	1	12	0
+1701	"zaki, nazar"	1	6	0
+1702	"zamiechowska, joanna"	1	2	0
+1703	"zangogianni, paraskevi"	1	93	0
+1704	"zarate-perez, eliseo"	1	1	0
+1705	"zhai, chunpeng"	1	6	0
+1706	"zhai, xiaoming"	1	19	0
+1707	"zhang, jie"	1	0	0
+1708	"zhang, liyan"	1	0	0
+1709	"zhang, nuodi"	1	3	0
+1710	"zhang, xinyi"	1	0	0
+1711	"zhao, aiden"	1	3	0
+1712	"zhao, hongying"	1	0	0
+1713	"zhao, jing"	1	0	0
+1714	"zheng, shuai"	1	18	0
+1715	"zheng, shuyan"	1	1	0
+1716	"zheng, yangsheng (danson)"	1	9	0
+1717	"zheng, yuanjie"	1	5	0
+1718	"zhong, yuchun"	2	45	0
+1719	"zhou, xinyan"	1	0	1
+1720	"zhu, chengcong"	1	15	0
+1721	"zhu, jingdong"	1	0	0
+1722	"zhu, tianjie"	1	7	0
+1723	"zhuang, min"	1	8	0
+1724	"zhuo, ziqing"	1	17	0
+1725	"zikic, simona"	1	19	0
+1726	"zimmermann, alfred"	1	3	0
+1727	"zine-dine, khalid"	1	1	0
+1728	"zolfaghari, zahra"	1	0	0
+1729	"zou, di"	1	0	0
+1730	"östberg, ann-sofie"	1	5	0
+1731	"üsküdar, tarkan"	1	0	0
+1732	"činčera, jan"	1	7	0
+1733	"šarčević, antonia"	1	0	0
+1734	"šedlbauer, josef"	1	7	0
